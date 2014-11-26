@@ -1,0 +1,11 @@
+c:\users\ir\documents\visual studio 2013\Projects\reading text file\reading text file\bin\Debug\reading text file.exe.config
+c:\users\ir\documents\visual studio 2013\Projects\reading text file\reading text file\bin\Debug\reading text file.exe
+c:\users\ir\documents\visual studio 2013\Projects\reading text file\reading text file\bin\Debug\reading text file.pdb
+c:\users\ir\documents\visual studio 2013\Projects\reading text file\reading text file\bin\Debug\reading text file.xml
+c:\users\ir\documents\visual studio 2013\Projects\reading text file\reading text file\obj\Debug\reading_text_file.Form1.resources
+c:\users\ir\documents\visual studio 2013\Projects\reading text file\reading text file\obj\Debug\reading_text_file.Resources.resources
+c:\users\ir\documents\visual studio 2013\Projects\reading text file\reading text file\obj\Debug\reading text file.vbproj.GenerateResource.Cache
+c:\users\ir\documents\visual studio 2013\Projects\reading text file\reading text file\obj\Debug\reading text file.exe
+c:\users\ir\documents\visual studio 2013\Projects\reading text file\reading text file\obj\Debug\reading text file.xml
+c:\users\ir\documents\visual studio 2013\Projects\reading text file\reading text file\obj\Debug\reading text file.pdb
+C:\Users\ir\Documents\Visual Studio 2013\Projects\reading text file\reading text file\obj\Debug\reading text file.vbprojResolveAssemblyReference.cache

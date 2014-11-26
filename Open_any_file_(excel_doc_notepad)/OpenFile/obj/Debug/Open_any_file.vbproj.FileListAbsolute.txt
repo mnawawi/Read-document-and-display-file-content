@@ -1,0 +1,10 @@
+C:\Users\ir\Documents\Visual Studio 2013\Projects\OpenFile\OpenFile\bin\Debug\OpenFile.exe.config
+C:\Users\ir\Documents\Visual Studio 2013\Projects\OpenFile\OpenFile\bin\Debug\OpenFile.exe
+C:\Users\ir\Documents\Visual Studio 2013\Projects\OpenFile\OpenFile\bin\Debug\OpenFile.pdb
+C:\Users\ir\Documents\Visual Studio 2013\Projects\OpenFile\OpenFile\bin\Debug\OpenFile.xml
+C:\Users\ir\Documents\Visual Studio 2013\Projects\OpenFile\OpenFile\obj\Debug\OpenFile.Form1.resources
+C:\Users\ir\Documents\Visual Studio 2013\Projects\OpenFile\OpenFile\obj\Debug\OpenFile.Resources.resources
+C:\Users\ir\Documents\Visual Studio 2013\Projects\OpenFile\OpenFile\obj\Debug\Open_any_file.vbproj.GenerateResource.Cache
+C:\Users\ir\Documents\Visual Studio 2013\Projects\OpenFile\OpenFile\obj\Debug\OpenFile.exe
+C:\Users\ir\Documents\Visual Studio 2013\Projects\OpenFile\OpenFile\obj\Debug\OpenFile.xml
+C:\Users\ir\Documents\Visual Studio 2013\Projects\OpenFile\OpenFile\obj\Debug\OpenFile.pdb

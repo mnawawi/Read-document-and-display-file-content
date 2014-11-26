@@ -1,0 +1,11 @@
+c:\users\ir\documents\visual studio 2013\Projects\OpenFile\OpenFile\bin\Debug\OpenFile.exe.config
+c:\users\ir\documents\visual studio 2013\Projects\OpenFile\OpenFile\bin\Debug\OpenFile.exe
+c:\users\ir\documents\visual studio 2013\Projects\OpenFile\OpenFile\bin\Debug\OpenFile.pdb
+c:\users\ir\documents\visual studio 2013\Projects\OpenFile\OpenFile\bin\Debug\OpenFile.xml
+c:\users\ir\documents\visual studio 2013\Projects\OpenFile\OpenFile\obj\Debug\OpenFile.Form1.resources
+c:\users\ir\documents\visual studio 2013\Projects\OpenFile\OpenFile\obj\Debug\OpenFile.Resources.resources
+c:\users\ir\documents\visual studio 2013\Projects\OpenFile\OpenFile\obj\Debug\OpenFile.vbproj.GenerateResource.Cache
+c:\users\ir\documents\visual studio 2013\Projects\OpenFile\OpenFile\obj\Debug\OpenFile.exe
+c:\users\ir\documents\visual studio 2013\Projects\OpenFile\OpenFile\obj\Debug\OpenFile.xml
+c:\users\ir\documents\visual studio 2013\Projects\OpenFile\OpenFile\obj\Debug\OpenFile.pdb
+C:\Users\ir\Documents\Visual Studio 2013\Projects\OpenFile\OpenFile\obj\Debug\OpenFile.vbprojResolveAssemblyReference.cache
